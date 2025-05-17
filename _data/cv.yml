@@ -8,14 +8,6 @@
     # - name: Languages
     #   value: Hebrew, English, German
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: Technion
-      year: 2025
-
-
 - title: Experience
   type: time_table
   contents:
@@ -35,7 +27,7 @@
         - title: Delivering tutorials, creating and grading exams, projects, and homework assignments
           contents: 
           -	Course TA: Dynamics and Mechanics of Vibration, Solid Mechanics 1, Kinematics of Mechanisms
-          - Lab TA: Microprocessor Based Product Design M' – using STM32 microcontrollers
+          - Lab TA: Microprocessor Based Product Design M' - using STM32 microcontrollers
     - title: Mechanical Engineering Student
       institution: Beewise: Automated Beekeeping 
       year: 2021 - 2022
