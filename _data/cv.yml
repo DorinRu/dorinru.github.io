@@ -29,7 +29,7 @@
           -	Course TA: Dynamics and Mechanics of Vibration, Solid Mechanics 1, Kinematics of Mechanisms
           - Lab TA: Microprocessor Based Product Design M' - using STM32 microcontrollers
     - title: Mechanical Engineering Student
-      institution: Beewise: Automated Beekeeping 
+      institution: Beewise Automated Beekeeping 
       year: 2021 - 2022
       description:
         -	Designed, planned and developed mechanical solutions for bees and beekeeper’s problems
@@ -44,7 +44,7 @@
       year: 2022 - 2024 
       description:
         - Conducting research in the Dynamics Lab, Mechanical Engineering, under Prof. Izhak Bucher
-        - Thesis title: “Optimization of the ultrasonic dynamics and kinematics for a micron-scale accurate ultrasonic motor”. Grade: 94
+        - Thesis title: “Optimization of the ultrasonic dynamics and kinematics for a micron-scale accurate ultrasonic motor”. Grade 94
         -	Developed a data-driven model for the ultrasonic motor based on lab experiments and finite element modeling of the piezoelectric element. Applied Autoresonance control for frequency optimization, validated by experimental results
         -	Performing and planning laboratory experiments using lasers, a thermal camera, filters and dSPACE
         -	Advanced courses: Hybrid Dynamics, Algorithms for Computer Vision, Deep Learning
