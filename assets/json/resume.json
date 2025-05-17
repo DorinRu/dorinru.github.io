@@ -21,8 +21,8 @@
       "name": "Cornell University",
       "position": "Computer Vision Intern",
       "url": "",
-      "startDate": "2023-06-01",
-      "endDate": "2024-01-01",
+      "startDate": "2023",
+      "endDate": "2024",
       "summary": "Worked in Prof. Wendy Ju's lab during a summer internship.",
       "highlights": [
         "Trained a YOLOv7 model to detect scaffolds from dashcam images",
@@ -35,8 +35,8 @@
       "name": "Technion – Israel Institute of Technology",
       "position": "Teaching Assistant",
       "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2024-12-31",
+      "startDate": "2023",
+      "endDate": "2024",
       "summary": "Delivered tutorials, created and graded exams, projects, and homework.",
       "highlights": [
         "Course TA: Dynamics and Mechanics of Vibration, Solid Mechanics 1, Kinematics of Mechanisms",
@@ -47,8 +47,8 @@
       "name": "Beewise Automated Beekeeping",
       "position": "Mechanical Engineering Student",
       "url": "",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
+      "startDate": "2021",
+      "endDate": "2022",
       "summary": "Designed and developed mechanical solutions to beekeeping challenges.",
       "highlights": [
         "Used 3D-printing, sheet metal bending, welding, punch press, laser cutting"
@@ -62,8 +62,8 @@
       "url": "",
       "area": "Autonomous Systems Program",
       "studyType": "M.Sc.",
-      "startDate": "2022-01-01",
-      "endDate": "2024-12-31",
+      "startDate": "2022",
+      "endDate": "2024",
       "score": "94",
       "courses": [
         "Hybrid Dynamics",
@@ -78,8 +78,8 @@
       "url": "",
       "area": "Mechanical Engineering",
       "studyType": "B.Sc.",
-      "startDate": "2018-01-01",
-      "endDate": "2022-01-01",
+      "startDate": "2018",
+      "endDate": "2022",
       "courses": [
         "Revadim Program – Robotics, Control and Mechatronics",
         "Final Project: Bicycle Stabilization via Front-Wheel DC Steering",
@@ -90,28 +90,28 @@
   "awards": [
     {
       "title": "Jacobs Fellowship Award for Excellence",
-      "date": "2024-01-01",
+      "date": "2024",
       "awarder": "Technion",
       "url": "",
       "summary": ""
     },
     {
       "title": "Ehud Yaron Prize for Excellent Students",
-      "date": "2022-01-01",
+      "date": "2022",
       "awarder": "Technion",
       "url": "",
       "summary": ""
     },
     {
       "title": "President’s List for Academic Excellence",
-      "date": "2022-06-01",
+      "date": "2022",
       "awarder": "Technion",
       "url": "",
       "summary": "Winter 2021/22, Spring 2022"
     },
     {
       "title": "Dean’s List for Academic Excellence",
-      "date": "2021-06-01",
+      "date": "2021",
       "awarder": "Technion",
       "url": "",
       "summary": "Winter 2020/21, Spring 2021"
