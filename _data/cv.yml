@@ -16,7 +16,7 @@
       year: 2023 - 2024
       description:
         - "Worked in Prof. Wendy Ju's lab during a summer internship"
-        -	"Trained a YOLOv7 model to detect scaffolds from dashcam images, developed an algorithm to enhance model accuracy using repeated detection areas. Detecting 529 unpermitted scaffolds in NYC"
+        - "Trained a YOLOv7 model to detect scaffolds from dashcam images, developed an algorithm to enhance model accuracy using repeated detection areas. Detecting 529 unpermitted scaffolds in NYC"
         - title: Preprint paper
           contents:
             - "D. Shapira, M. Franchi, and W. Ju, “Fingerprinting New York City’s Scaffolding Problem with Longitudinal Dashcam Data”"
@@ -26,15 +26,14 @@
       description:
         - title: "Delivering tutorials, creating and grading exams, projects, and homework assignments"
           contents: 
-          -	"Course TA: Dynamics and Mechanics of Vibration, Solid Mechanics 1, Kinematics of Mechanisms"
-          - "Lab TA: Microprocessor Based Product Design M' - using STM32 microcontrollers
+            - "Course TA: Dynamics and Mechanics of Vibration, Solid Mechanics 1, Kinematics of Mechanisms"
+            - "Lab TA: Microprocessor Based Product Design M' - using STM32 microcontrollers"
     - title: Mechanical Engineering Student
       institution: Beewise Automated Beekeeping 
       year: 2021 - 2022
       description:
         - "Designed, planned and developed mechanical solutions for bees and beekeeper’s problems"
         - "Used various technologies: 3D-printing, Sheetmetal bending, welding, punch press, Laser cut"
-
 
 - title: Education
   type: time_table
@@ -43,28 +42,25 @@
       institution: Technion
       year: 2022 - 2024 
       description:
-        - Conducting research in the Dynamics Lab, Mechanical Engineering, under Prof. Izhak Bucher
+        - "Conducting research in the Dynamics Lab, Mechanical Engineering, under Prof. Izhak Bucher"
         - "Thesis title: “Optimization of the ultrasonic dynamics and kinematics for a micron-scale accurate ultrasonic motor”. Grade: 94"
-        -	Developed a data-driven model for the ultrasonic motor based on lab experiments and finite element modeling of the piezoelectric element. Applied Autoresonance control for frequency optimization, validated by experimental results
-        -	Performing and planning laboratory experiments using lasers, a thermal camera, filters and dSPACE
-        -	"Advanced courses: Hybrid Dynamics, Algorithms for Computer Vision, Deep Learning"
-        -	"Conference paper: D. Shapira and I. Bucher, “Optimization of the ultrasonic dynamics and kinematics for a micron-scale accurate ultrasonic transducer”, ISMA 2024"
+        - "Developed a data-driven model for the ultrasonic motor based on lab experiments and finite element modeling of the piezoelectric element. Applied Autoresonance control for frequency optimization, validated by experimental results"
+        - "Performing and planning laboratory experiments using lasers, a thermal camera, filters and dSPACE"
+        - "Advanced courses: Hybrid Dynamics, Algorithms for Computer Vision, Deep Learning"
+        - "Conference paper: D. Shapira and I. Bucher, “Optimization of the ultrasonic dynamics and kinematics for a micron-scale accurate ultrasonic transducer”, ISMA 2024"
     - title: B.Sc. in Mechanical Engineering
       institution: Technion
       year: 2018 - 2022
       description:
-        -	Major in Robotics, Control and Mechatronics (Revadim Program)
-        -	Student representative of Revadim Program
-        -	"Final project: Bicycle Stabilization via Front-Wheel DC Steering"
+        - "Major in Robotics, Control and Mechatronics (Revadim Program)"
+        - "Student representative of Revadim Program"
+        - "Final project: Bicycle Stabilization via Front-Wheel DC Steering"
         - "Developed a linear controller to stabilize a small bicycle, implemented on Arduino for real-time performance"
 
-
-
 - title: Honors and Awards
-  type: time_table
+  type: list
   contents:
-      items:
-        - Jacobs Fellowship Award for Excellence (2024)
-        - Ehud Yaron Prize for excellent students (2022)
-        - President’s list for academic excellence achievements (Winter 2021/22, Spring 2022)
-        - Dean’s list for academic excellence achievements (Winter 2020/21, Spring 2021)
+    - "Jacobs Fellowship Award for Excellence (2024)"
+    - "Ehud Yaron Prize for excellent students (2022)"
+    - "President’s list for academic excellence achievements (Winter 2021/22, Spring 2022)"
+    - "Dean’s list for academic excellence achievements (Winter 2020/21, Spring 2021)"
