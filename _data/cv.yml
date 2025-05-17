@@ -12,12 +12,12 @@
   type: time_table
   contents:
     - title: Computer Vision Intern
-      institution: Cornell University, USA
+      institution: Cornell University
       year: 2023 - 2024
       description:
-        -	Worked in Prof. Wendy Ju's lab during a summer internship
+        - Worked in Prof. Wendy Ju's lab during a summer internship
         -	Trained a YOLOv7 model to detect scaffolds from dashcam images, developed an algorithm to enhance model accuracy using repeated detection areas. Detecting 529 unpermitted scaffolds in NYC
-        - title:	Preprint paper
+        - title: Preprint paper
           contents:
             - D. Shapira, M. Franchi, and W. Ju, “Fingerprinting New York City’s Scaffolding Problem with Longitudinal Dashcam Data”
     - title: Teaching Assistant
