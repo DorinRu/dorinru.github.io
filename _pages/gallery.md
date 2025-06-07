@@ -10,8 +10,10 @@ description: עמוד גלריה עם תמונות והסברים
 <div class="gallery">
   {% for item in site.data.gallery %}
     <div class="gallery-item">
-      <img src="{{ site.baseurl }}/assets/img/gallery/{{ item.image }}" alt="gallery image" onclick="expandImage(this)">
-      <div class="caption">{{ item.caption }}</div>
+      <img 
+        src="{{ site.baseurl }}/assets/img/gallery/{{ item.image }}" 
+        alt="gallery image" 
+        onclick="expandImage(this, '{{ item.caption | escape }}')">
     </div>
   {% endfor %}
 </div>
@@ -47,12 +49,6 @@ description: עמוד גלריה עם תמונות והסברים
   transform: scale(1.05);
 }
 
-.caption {
-  margin-top: 10px;
-  font-size: 14px;
-  color: #333;
-}
-
 .modal {
   display: none;
   position: fixed;
@@ -77,6 +73,7 @@ description: עמוד גלריה עם תמונות והסברים
   text-align: center;
   margin: 20px;
   color: #fff;
+  font-size: 18px;
 }
 
 .close {
@@ -91,13 +88,13 @@ description: עמוד גלריה עם תמונות והסברים
 </style>
 
 <script>
-function expandImage(img) {
+function expandImage(img, captionText) {
   var modal = document.getElementById("modal");
   var modalImg = document.getElementById("modal-img");
   var caption = document.getElementById("modal-caption");
   modal.style.display = "block";
   modalImg.src = img.src;
-  caption.innerHTML = img.nextElementSibling.innerHTML;
+  caption.innerHTML = captionText;
 }
 
 function closeModal() {
