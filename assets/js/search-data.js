@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-gallery",
           title: "Gallery",
-          description: "עמוד גלריה עם תמונות והסברים",
+          description: "Some photos I took over the years.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";
