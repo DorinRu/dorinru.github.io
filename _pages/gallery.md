@@ -4,7 +4,7 @@ title: Gallery
 permalink: /gallery/
 nav: true
 nav_order: 6
-description: עמוד גלריה עם תמונות והסברים
+description: Some photos I took over the years.
 ---
 
 <div class="gallery">
@@ -27,19 +27,18 @@ description: עמוד גלריה עם תמונות והסברים
 
 <style>
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: flex-start;
+  column-count: 4; /* Adjust based on screen size if needed */
+  column-gap: 20px;
 }
 
 .gallery-item {
-  width: 200px;
-  text-align: center;
+  break-inside: avoid;
+  margin-bottom: 20px;
 }
 
 .gallery-item img {
   width: 100%;
+  height: auto;
   cursor: pointer;
   border-radius: 8px;
   transition: transform 0.3s;
